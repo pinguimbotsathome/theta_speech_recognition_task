@@ -1,0 +1,56 @@
+[15:55:27] Starting Speech Recognition
+[15:55:41] Understood:  What is the hero's name in The Legend of Zelda?
+[15:55:41] Looking for similar questions...
+	LD	Question
+	6	what is the hero's name in the legend of zelda
+	45	what are the names of the ghosts who chase pac man and ms. pac man
+	38	what's the name of the mythbusters' crash test dummy
+	35	what is an oxford comma
+	47	who was the captain of the enterprise in the pilot episode of star trek
+	34	what is the symbol for the modulus operator in c
+	55	what function is automatically called at the beginning of a c plus plus program
+	52	which computer programming languages was introduced by ibm in 1957
+	36	who is considered as the first programmer
+	34	has a robot ever killed a person
+	41	who was hitchbot
+	39	are self-driving cars safe
+	36	who invented the compiler
+	40	who created the python programming language
+	39	is mark zuckerberg a robot
+	40	why did you run away
+	36	what kind of salad do robots like
+	36	what did you ate for lunch
+	35	why did robots get angry so often
+	36	why shouldn't r2d2 be allowed in movies
+	33	what's your favorite style of music
+	32	what does the acronym smtp represent
+	31	what does the acronym mpeg represent
+	31	what does the acronym gimp represent
+	30	what does the acronym gnu represent
+	32	what is the most populous city in brazil
+	37	which continent is brazil located in
+	41	on what day month and year was brazil's independence declared
+	42	how many states does brazil have with federal district
+	40	in what year did the first brazilian astronaut go to space
+	39	what is the only capital of brazil crossed by the equator
+	34	how many time zones are there in brazil
+	56	in which city is the world's first urban elevator and what is the name of that elevator
+	48	what is the only biome present in brazil that is exclusive in the world
+	43	pampulha lake is a tourist spot in which brazilian city
+	39	what is the smallest brazilian state in territorial extension
+	42	which capitals in brazil have the same name as your state
+	33	where is the itamaraty palace located
+	36	what was the first name given to brazil by the portuguese
+	40	acaraje is a typical food from which state
+	44	pico da neblina can be found in which brazilian state
+	38	pao de acucar is located in which brazilian capital
+	29	what is the newest state in brazil
+	30	what is the oldest state in brazil
+	29	what is the capital of ceara
+	29	what is the capital of rio grande do sul
+	30	what is the capital of rio grande do norte
+	31	what is the capital of brazil
+	32	what is the capital of pernambuco
+	30	what is the capital of para
+[15:55:44] Question: What is the hero's name in The Legend of Zelda?
+[15:55:44] Answer: Despite most people's believes, he's called Link

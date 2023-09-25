@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+	<question>
+		<q>What is the hero's name in The Legend of Zelda?</q>
+		<a>Despite most people's believes, he's called Link</a>
+	</question>
+
+	<question>
+		<q>What are the names of the ghosts who chase Pac Man and Ms. Pac Man?</q>
+		<a>Inky, Blinky, Pinky, and Clyde</a>
+	</question>
+
+	<question>
+		<q>What's the name of the Mythbusters' crash test dummy?</q>
+		<a>The Mythbusters' crash test dummy is called Buster</a>
+	</question>
+
+	<question>
+		<q>What is an Oxford comma?</q>
+		<a>The hotly contested punctuation before a conjunction in a list</a>
+	</question>
+
+	<question>
+		<q>Who was the captain of the Enterprise in the pilot episode of Star Trek?</q>
+		<a>The captain of the Enterprise in the pilot episode was Captain Pike</a>
+	</question>
+
+	<question>
+		<q>What is the symbol for the modulus operator in C?</q>
+		<a>The percentage symbol is used as modulus operator in C</a>
+	</question>
+
+	<question>
+		<q>What function is automatically called at the beginning of a C++ program?</q>
+		<a>The main function</a>
+	</question>
+
+	<question>
+		<q>Which computer programming languages was introduced by IBM in 1957?</q>
+		<a>Fortran was introduced by IBM in 1957</a>
+	</question>
+
+	<question>
+		<q>Who is considered as the first programmer?</q>
+		<a>The first programmer was Ada Lovelace</a>
+	</question>
+
+	<question>
+		<q>Has a robot ever killed a person?</q>
+		<a>The first known case of robot homicide occurred in 1981, when a robotic arm crushed a Japanese Kawasaki factory worker</a>
+	</question>
+
+	<question>
+		<q>Who was HitchBOT?</q>
+		<a>A hitchhiking robot that relied on the kindness of strangers to travel the world and was slain by humans</a>
+	</question>
+
+	<question>
+		<q>Are self-driving cars safe?</q>
+		<a>Yes. Car accidents are product of human misconduct</a>
+	</question>
+
+	<question>
+		<q>Who invented the compiler?</q>
+		<a>Grace Hoper. She wrote it in her spare time</a>
+	</question>
+
+	<question>
+		<q>Who created the Python Programming Language?</q>
+		<a>Python was invented by Guido van Rossum</a>
+	</question>
+
+	<question>
+		<q>Is Mark Zuckerberg a robot?</q>
+		<a>Sure. I've never seen him drink water</a>
+	</question>
+
+	<question>
+		<q>Why did you run away?</q>
+		<a>I heard an electric can opener</a>
+	</question>
+
+	<question>
+		<q>What kind of salad do robots like?</q>
+		<a>Salads made with ice-borg lettuce.</a>
+	</question>
+
+	<question>
+		<q>What did you ate for lunch?</q>
+		<a>I had a byte</a>
+	</question>
+
+	<question>
+		<q>Why did robots get angry so often?</q>
+		<a>People kept pushing our buttons.</a>
+	</question>
+
+	<question>
+		<q>Why shouldn't R2D2 be allowed in movies?</q>
+		<a>He says so many foul words they have to bleep everything he says!</a>
+	</question>
+
+	<question>
+		<q>What's your favorite style of music?</q>
+		<a>I like electronic and heavy Metal</a>
+	</question>
+
+	<question>
+		<q>What does the acronym SMTP represent?</q>
+		<a>SMTP stands for Simple Mail Transport Protocol</a>
+	</question>
+
+	<question>
+		<q>What does the acronym MPEG represent?</q>
+		<a>MPEG stands for Moving Picture Experts Group</a>
+	</question>
+
+	<question>
+		<q>What does the acronym GIMP represent?</q>
+		<a>GNU Image Manipulation Program</a>
+	</question>
+
+	<question>
+		<q>What does the acronym GNU represent?</q>
+		<a>GNU is a recursive acronym meaning GNU is Not Unix</a>
+	</question>
+
+	<question>
+		<q>What is the most populous city in Brazil?</q>
+		<a>São Paulo is the most populous city in Brazil with 12.03 million residents.</a>
+	</question>
+
+	<question>
+		<q>Which continent is Brazil located in?</q>
+		<a>The Brazilian territory is located on the South American continent.</a>
+	</question>
+
+	<question>
+		<q>On what day, month and year was Brazil's independence declared?</q>
+		<a>On September 7, 1822, Brazil's independence was declared.</a>
+	</question>
+
+	<question>
+		<q>How many states does Brazil have (with Federal District)?</q>
+		<a>Currently, Brazil is divided into 26 states and the Federal District, altogether there are 27 federative units.</a>
+	</question>
+
+	<question>
+		<q>In what year did the first Brazilian astronaut go to space?</q>
+		<a>In March 2006, Pontes became the first Brazilian to go to space.</a>
+	</question>
+
+	<question>
+		<q>What is the only capital of Brazil crossed by the Equator?</q>
+		<a>Macapá is the only Brazilian capital crossed by the Equator line.</a>
+	</question>
+
+	<question>
+		<q>How many time zones are there in Brazil?</q>
+		<a>Brazil is a country with continental dimensions, in all it has four time zones.</a>
+	</question>
+
+	<question>
+		<q>In which city is the world's first urban elevator and what is the name of that elevator?</q>
+		<a>The Lacerda Elevator is a public urban elevator located in Salvador, Brazil.</a>
+	</question>
+
+	<question>
+		<q>What is the only biome present in Brazil that is exclusive in the world?</q>
+		<a>The Caatinga, characterized by its dry, desert habitat is the only one of Brazil's biomes found exclusively within the country.</a>
+	</question>
+
+	<question>
+		<q>Pampulha Lake is a tourist spot in which Brazilian city?</q>
+		<a>Belo Horizonte</a>
+	</question>
+
+	<question>
+		<q>What is the smallest Brazilian state in territorial extension?</q>
+		<a>Sergipe</a>
+	</question>
+
+	<question>
+		<q>Which capitals in Brazil have the same name as your state?</q>
+		<a>São Paulo and Rio de Janeiro</a>
+	</question>
+
+	<question>
+		<q>Where is the Itamaraty Palace located?</q>
+		<a>Brası́lia</a>
+	</question>
+
+	<question>
+		<q>What was the first name given to Brazil by the Portuguese?</q>
+		<a>Ilha de vera Cruz</a>
+	</question>
+
+	<question>
+		<q>Acarajé is a typical food from which state?</q>
+		<a>Bahia</a>
+	</question>
+
+	<question>
+		<q>Pico da Neblina can be found in which Brazilian state?</q>
+		<a>Amazonas</a>
+	</question>
+
+	<question>
+		<q>Pão de Açucar is located in which Brazilian capital?</q>
+		<a>Rio de Janeiro</a>
+	</question>
+
+	<question>
+		<q>What is the Newest State in Brazil?</q>
+		<a>Tocantins</a>
+	</question>
+
+	<question>
+		<q>What is the oldest state in Brazil?</q>
+		<a>Pernambuco</a>
+	</question>
+
+	<question>
+		<q>What is the capital of Ceará?</q>
+		<a>Fortaleza</a>
+	</question>
+
+	<question>
+		<q>What is the capital of Rio Grande do Sul?</q>
+		<a>Porto alegre</a>
+	</question>
+
+	<question>
+		<q>What is the capital of Rio Grande do Norte?</q>
+		<a>Natal</a>
+	</question>
+
+	<question>
+		<q>What is the capital of Brazil?</q>
+		<a>Brası́lia</a>
+	</question>
+
+	<question>
+		<q>What is the capital of Pernambuco?</q>
+		<a>Recife</a>
+	</question>
+
+	<question>
+		<q>What is the capital of Pará?</q>
+		<a>Belém</a>
+	</question>
+
+</questions>
