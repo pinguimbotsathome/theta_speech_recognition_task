@@ -20,7 +20,7 @@ tts_pub  = rospy.Publisher('/textToSpeech', String, queue_size=10)
 face_pub = rospy.Publisher('/hri/affective_loop', String, queue_size=10)
 hotword_pub = rospy.Publisher('/hotword_activate', Empty, queue_size=1)
 
-QUESTIONS = os.path.join(PACK_DIR,"Questions.xml")
+QUESTIONS = os.path.join(PACK_DIR,"questions/Questions.xml")
 QUESTION_FROM_FILE = True if len(sys.argv) > 1 else False
 
 question_counter = 0
