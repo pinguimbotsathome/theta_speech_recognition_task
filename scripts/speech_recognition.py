@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import rospy
-from theta_speech.srv import SpeechToText, SpeechToTextResponse
+from theta_speech.srv import SpeechToText
+from theta_speech.srv import QuestionAnswer
 import rospkg
 from std_msgs.msg import String
 from std_msgs.msg import Empty
@@ -17,6 +18,7 @@ LOG_DIR = os.path.join(PACK_DIR,"logs/")
 
 tts_pub  = rospy.Publisher('/textToSpeech', String, queue_size=10)
 face_pub = rospy.Publisher('/hri/affective_loop', String, queue_size=10)
+hotword_pub = rospy.Publisher('/hotword_activate', Empty, queue_size=1)
 
 QUESTIONS = os.path.join(PACK_DIR,"Questions.xml")
 QUESTION_FROM_FILE = True if len(sys.argv) > 1 else False
@@ -111,9 +113,16 @@ def predefined_question(question, log_name, questions, original_questions):
     return answer
 
 
+def open_question(question, log_name):
+    log(f"Understood: {question}", log_name)
+
+    rospy.wait_for_service("services/questionAnswering")
+    question_answer = rospy.ServiceProxy("services/questionAnswering", QuestionAnswer)
+    answer = question_answer(question)
+    return answer.answer
+
 def task_procedure(self):
-
-
+    global question_counter
     now = datetime.now()
 
     log_dir = os.path.join(PACK_DIR,"logs/")
@@ -134,41 +143,18 @@ def task_procedure(self):
     text = speech_to_text()
     rospy.logwarn(text.text)
     question = text.text
-    
-    answer = predefined_question(question, log_name, questions, original_questions)
-    
-    # rospy.sleep(3)
+    if question_counter < 2:
+        answer = predefined_question(question, log_name, questions, original_questions)
+
+    else:
+        answer = open_question(question, log_name)
+        
     tts_pub.publish(answer)
-    # rospy.sleep(3)
 
-
+    if question_counter < 6:
+        question_counter = question_counter + 1
+        hotword_pub.publish()
     
-
-    # while not rospy.is_shutdown():
-    #     try:
-            
-    #         #rospy.loginfo(speech_to_text.text)
-            
-    #         text = speech_to_text()
-    #         rospy.loginfo(text.text)
-    #         rate.sleep()
-    #     except rospy.ServiceException as e:
-    #         print("Service call failed:", str(e))
-
-# def call_speech_to_text_service():
-#     rospy.init_node("")
-#     rospy.wait_for_service("services/speechToText")
-#     rate = rospy.Rate(1)
-#     while not rospy.is_shutdown():
-#         try:
-#             speech_to_text = rospy.ServiceProxy("services/speechToText", SpeechToText)
-#             #rospy.loginfo(speech_to_text.text)
-            
-#             text = speech_to_text()
-#             rospy.loginfo(text.text)
-#             rate.sleep()
-#         except rospy.ServiceException as e:
-#             print("Service call failed:", str(e))
             
 if __name__ == "__main__":
     rospy.init_node("speech_recognition_task")
