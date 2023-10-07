@@ -1,0 +1,56 @@
+[18:02:55] Starting Speech Recognition
+[18:03:09] Understood:  What is the capital of Brazil?
+[18:03:09] Looking for similar questions...
+	LD	Question
+	29	what is the hero's name in the legend of zelda
+	50	what are the names of the ghosts who chase pac man and ms. pac man
+	39	what's the name of the mythbusters' crash test dummy
+	21	what is an oxford comma
+	52	who was the captain of the enterprise in the pilot episode of star trek
+	31	what is the symbol for the modulus operator in c
+	63	what function is automatically called at the beginning of a c plus plus program
+	53	which computer programming languages was introduced by ibm in 1957
+	31	who is considered as the first programmer
+	28	has a robot ever killed a person
+	24	who was hitchbot
+	27	are self-driving cars safe
+	24	who invented the compiler
+	31	who created the python programming language
+	27	is mark zuckerberg a robot
+	25	why did you run away
+	24	what kind of salad do robots like
+	21	what did you ate for lunch
+	28	why did robots get angry so often
+	31	why shouldn't r2d2 be allowed in movies
+	24	what's your favorite style of music
+	24	what does the acronym smtp represent
+	24	what does the acronym mpeg represent
+	24	what does the acronym gimp represent
+	23	what does the acronym gnu represent
+	22	what is the most populous city in brazil
+	28	which continent is brazil located in
+	45	on what day month and year was brazil's independence declared
+	40	how many states does brazil have with federal district
+	41	in what year did the first brazilian astronaut go to space
+	31	what is the only capital of brazil crossed by the equator
+	26	how many time zones are there in brazil
+	66	in which city is the world's first urban elevator and what is the name of that elevator
+	53	what is the only biome present in brazil that is exclusive in the world
+	39	pampulha lake is a tourist spot in which brazilian city
+	42	what is the smallest brazilian state in territorial extension
+	42	which capitals in brazil have the same name as your state
+	24	where is the itamaraty palace located
+	39	what was the first name given to brazil by the portuguese
+	29	acaraje is a typical food from which state
+	41	pico da neblina can be found in which brazilian state
+	38	pao de acucar is located in which brazilian capital
+	16	what is the newest state in brazil
+	16	what is the oldest state in brazil
+	8	what is the capital of ceara
+	17	what is the capital of rio grande do sul
+	19	what is the capital of rio grande do norte
+	4	what is the capital of brazil
+	10	what is the capital of pernambuco
+	8	what is the capital of para
+[18:03:10] Question: What is the capital of Brazil?
+[18:03:10] Answer: Brası́lia

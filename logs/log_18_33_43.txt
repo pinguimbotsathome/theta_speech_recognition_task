@@ -1,0 +1,56 @@
+[18:33:43] Starting Speech Recognition
+[18:33:57] Understood:  Which capitals in Brazil have the same name as their stage?
+[18:33:57] Looking for similar questions...
+	LD	Question
+	44	what is the hero's name in the legend of zelda
+	52	what are the names of the ghosts who chase pac man and ms. pac man
+	46	what's the name of the mythbusters' crash test dummy
+	48	what is an oxford comma
+	51	who was the captain of the enterprise in the pilot episode of star trek
+	44	what is the symbol for the modulus operator in c
+	58	what function is automatically called at the beginning of a c plus plus program
+	47	which computer programming languages was introduced by ibm in 1957
+	44	who is considered as the first programmer
+	44	has a robot ever killed a person
+	51	who was hitchbot
+	48	are self-driving cars safe
+	47	who invented the compiler
+	46	who created the python programming language
+	49	is mark zuckerberg a robot
+	51	why did you run away
+	46	what kind of salad do robots like
+	48	what did you ate for lunch
+	46	why did robots get angry so often
+	46	why shouldn't r2d2 be allowed in movies
+	44	what's your favorite style of music
+	44	what does the acronym smtp represent
+	45	what does the acronym mpeg represent
+	45	what does the acronym gimp represent
+	44	what does the acronym gnu represent
+	46	what is the most populous city in brazil
+	41	which continent is brazil located in
+	49	on what day month and year was brazil's independence declared
+	38	how many states does brazil have with federal district
+	44	in what year did the first brazilian astronaut go to space
+	44	what is the only capital of brazil crossed by the equator
+	44	how many time zones are there in brazil
+	54	in which city is the world's first urban elevator and what is the name of that elevator
+	50	what is the only biome present in brazil that is exclusive in the world
+	50	pampulha lake is a tourist spot in which brazilian city
+	47	what is the smallest brazilian state in territorial extension
+	9	which capitals in brazil have the same name as your state
+	45	where is the itamaraty palace located
+	44	what was the first name given to brazil by the portuguese
+	43	acaraje is a typical food from which state
+	43	pico da neblina can be found in which brazilian state
+	46	pao de acucar is located in which brazilian capital
+	43	what is the newest state in brazil
+	43	what is the oldest state in brazil
+	43	what is the capital of ceara
+	44	what is the capital of rio grande do sul
+	42	what is the capital of rio grande do norte
+	44	what is the capital of brazil
+	44	what is the capital of pernambuco
+	44	what is the capital of para
+[18:33:59] Question: Which capitals in Brazil have the same name as your state?
+[18:33:59] Answer: São Paulo and Rio de Janeiro
